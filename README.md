@@ -7,8 +7,7 @@
 
 👨🏿‍💻 **Profissão**: IT Analyst @ F1rst Digital Services (Santander Brasil).      
 📚 **Estudando**: DevOps, CI/CD, Python, Go.      
-🌱 **Interesses**: Back-End, Automação, Infraestrutura como Código, Cloud Computing, DevOps.       
-🎯 **Objetivo**: Se especializar em DevOps e Cloud.
+🌱 **Interesses**: Data engineering, Automation, Infrastructure as Code, Cloud Computing, DevOps.
 
 ---
 
@@ -19,7 +18,7 @@
 ---
 
 ## ⚡ Experiência Profissional
-🚀 **Jira**: Otimização de fluxos de trabalho e automações  
+🚀 **Jira Admin**: Otimização de fluxos de trabalho e automações  
 📊 **Power Automate**: Automação de relatórios e redução de tarefas repetitivas  
 📚 **Confluence**: Criação e gestão de documentações estratégicas  
 📈 **Planilhas**: Gerenciamento de dados para decisões de negócios  
