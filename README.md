@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre Mim
 
-👨🏿‍💻 **Profissão**: Intelligence Engineer @ F1rst Digital Services (Santander Brasil).      
+👨🏿‍💻 **Profissão**: IT Analyst @ F1rst Digital Services (Santander Brasil).      
 📚 **Estudando**: DevOps, CI/CD, Python, Go.      
 🌱 **Interesses**: Back-End, Automação, Infraestrutura como Código, Cloud Computing, DevOps.       
 🎯 **Objetivo**: Se especializar em DevOps e Cloud.
